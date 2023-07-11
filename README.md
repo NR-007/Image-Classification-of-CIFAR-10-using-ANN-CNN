@@ -13,4 +13,4 @@ horse,
 ship,										
 truck,
 •Initailly used  an **Artificial Neural Network (ANN)** with fully connected layers for image classification. It compares the performance of different optimizers by plotting accuracy and loss curves.
-•Then used **CNN** with different optimizers.
+•Then used **CNN** with different optimizers.Visualised the model accuracy for all models by making confusion matrix using Tensorflow and heatmap using seaborn library
